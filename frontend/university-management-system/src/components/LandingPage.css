@@ -1,0 +1,43 @@
+/* LandingPage.css */
+
+/* Style for the container */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  .container img{
+    margin: 40px;
+  }
+  /* Style for the heading */
+  h1 {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+  
+  /* Style for the navigation links */
+  .nav-links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-links button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .nav-links button:hover {
+    background-color: #0056b3;
+  }
+  
+  .nav-links button:focus {
+    outline: none;
+  }
+  

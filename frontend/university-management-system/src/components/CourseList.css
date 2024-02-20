@@ -1,0 +1,15 @@
+/* components/CourseList.css */
+.Course-list-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.Course-list {
+    list-style: none;
+    padding: 0;
+}
+
+.Course-list li {
+    margin-bottom: 10px;
+}

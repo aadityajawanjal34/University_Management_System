@@ -1,0 +1,54 @@
+.teacher-dashboard-container {
+    text-align: center;
+}
+
+.dashboard-title {
+    margin-top: 20px;
+}
+
+.department-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.department-title {
+    font-size: 24px;
+}
+
+.students-container {
+    margin-top: 20px;
+}
+
+.students-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.students-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.students-table th,
+.students-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.quick-links-container {
+    margin-top: 50px;
+}
+
+.quick-links {
+    display: flex;
+    justify-content: center;
+}
+
+.quick-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.quick-links ul li {
+    margin-bottom: 5px;
+}

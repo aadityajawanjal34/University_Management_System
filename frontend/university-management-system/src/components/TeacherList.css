@@ -1,0 +1,30 @@
+/* components/teacherList.css */
+.teacher-list-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.teacher-list {
+    list-style: none;
+    padding: 0;
+}
+
+.teacher-list li {
+    margin-bottom: 10px;
+}
+
+.teacher-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.teacher-table th, .teacher-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.teacher-table th {
+    background-color: #f2f2f2;
+}

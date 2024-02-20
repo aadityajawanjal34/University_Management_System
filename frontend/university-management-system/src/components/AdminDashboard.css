@@ -1,0 +1,31 @@
+.operations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Align items horizontally */
+    align-items: center; /* Align items vertically */
+  }
+  
+  .operations > div {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .operations h2 {
+    margin-bottom: 10px;
+  }
+  
+  .operations > div:last-child {
+    margin-right: 0;
+  }
+  
+  .operation-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    height: 50vh;
+  }
+  
+  .operation-container h2 {
+    text-align: center;
+  }
+  
